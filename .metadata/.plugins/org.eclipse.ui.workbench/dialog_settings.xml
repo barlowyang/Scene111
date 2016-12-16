@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item value="com.adobe.flexbuilder.editorcore.ui.project.wizards.export.exportrelease" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="com.adobe.flexbuilder.export"/>
+		</list>
+	</section>
+</section>
