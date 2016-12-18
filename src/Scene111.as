@@ -17,6 +17,7 @@ package
 	{
 		
 		private static var _inst:Scene111;
+
 		public static function get inst():Scene111
 		{
 			return _inst;
